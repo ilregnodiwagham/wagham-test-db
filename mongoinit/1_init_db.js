@@ -102,6 +102,110 @@ db.characters.insert([
     }
 ]);
 
+db.characters.insert([
+  {
+      "_id": "Wilhelm Thormar",
+      "player": "test_retired",
+      "race": "Human",
+      "territory": "Gran Ducato di Vatakia",
+      "class": "Paladin",
+      "age": 45,
+      "status": "retired",
+      "masterMS": 3,
+      "sessionMS": 52.8,
+      "PBCMS": 2,
+      "errataMS": 0,
+      "errata": [],
+      "created": new Date("2022-05-31T00:00:00.000+00:00"),
+      "lastPlayed": new Date("2022-09-11T00:00:00.000+00:00"),
+      "lastMastered": new Date("2022-09-06T00:00:00.000+00:00"),
+      "reputation": {},
+      "inventory": {},
+      "money": 645,
+      "proficiencies": [],
+      "languages": [],
+      "buildings": {}
+  }
+]);
+
+db.characters.insert([
+  {
+      "_id": "Wilhelm Thormar",
+      "player": "test_dead",
+      "race": "Human",
+      "territory": "Gran Ducato di Vatakia",
+      "class": "Paladin",
+      "age": 45,
+      "status": "dead",
+      "masterMS": 3,
+      "sessionMS": 52.8,
+      "PBCMS": 2,
+      "errataMS": 0,
+      "errata": [],
+      "created": new Date("2022-05-31T00:00:00.000+00:00"),
+      "lastPlayed": new Date("2022-09-11T00:00:00.000+00:00"),
+      "lastMastered": new Date("2022-09-06T00:00:00.000+00:00"),
+      "reputation": {},
+      "inventory": {},
+      "money": 645,
+      "proficiencies": [],
+      "languages": [],
+      "buildings": {}
+  }
+]);
+
+db.characters.insert([
+  {
+      "_id": "Wilhelm Thormar",
+      "player": "test_npc",
+      "race": "Human",
+      "territory": "Gran Ducato di Vatakia",
+      "class": "Paladin",
+      "age": 45,
+      "status": "npc",
+      "masterMS": 3,
+      "sessionMS": 52.8,
+      "PBCMS": 2,
+      "errataMS": 0,
+      "errata": [],
+      "created": new Date("2022-05-31T00:00:00.000+00:00"),
+      "lastPlayed": new Date("2022-09-11T00:00:00.000+00:00"),
+      "lastMastered": new Date("2022-09-06T00:00:00.000+00:00"),
+      "reputation": {},
+      "inventory": {},
+      "money": 645,
+      "proficiencies": [],
+      "languages": [],
+      "buildings": {}
+  }
+]);
+
+db.characters.insert([
+  {
+      "_id": "Wilhelm Thormar",
+      "player": "test_traitor",
+      "race": "Human",
+      "territory": "Gran Ducato di Vatakia",
+      "class": "Paladin",
+      "age": 45,
+      "status": "traitor",
+      "masterMS": 3,
+      "sessionMS": 52.8,
+      "PBCMS": 2,
+      "errataMS": 0,
+      "errata": [],
+      "created": new Date("2022-05-31T00:00:00.000+00:00"),
+      "lastPlayed": new Date("2022-09-11T00:00:00.000+00:00"),
+      "lastMastered": new Date("2022-09-06T00:00:00.000+00:00"),
+      "reputation": {},
+      "inventory": {},
+      "money": 645,
+      "proficiencies": [],
+      "languages": [],
+      "buildings": {}
+  }
+]);
+
 db.items.insert([
     {
         "_id": "Leg of Kusia's Woods Antelope",
