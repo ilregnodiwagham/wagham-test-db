@@ -104,7 +104,7 @@ db.characters.insert([
 
 db.characters.insert([
   {
-      "_id": "Wilhelm Thormar",
+      "_id": "Retired",
       "player": "test_retired",
       "race": "Human",
       "territory": "Gran Ducato di Vatakia",
@@ -130,7 +130,7 @@ db.characters.insert([
 
 db.characters.insert([
   {
-      "_id": "Wilhelm Thormar",
+      "_id": "Dead",
       "player": "test_dead",
       "race": "Human",
       "territory": "Gran Ducato di Vatakia",
@@ -156,7 +156,7 @@ db.characters.insert([
 
 db.characters.insert([
   {
-      "_id": "Wilhelm Thormar",
+      "_id": "NPC",
       "player": "test_npc",
       "race": "Human",
       "territory": "Gran Ducato di Vatakia",
@@ -182,7 +182,7 @@ db.characters.insert([
 
 db.characters.insert([
   {
-      "_id": "Wilhelm Thormar",
+      "_id": "TRAITOR",
       "player": "test_traitor",
       "race": "Human",
       "territory": "Gran Ducato di Vatakia",
