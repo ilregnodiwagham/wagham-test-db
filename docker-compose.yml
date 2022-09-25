@@ -10,6 +10,8 @@ services:
             MONGO_INITDB_DATABASE: testDB
             MONGO_INITDB_ACCESS_USR: ${MONGO_INITDB_USR}
             MONGO_INITDB_ACCESS_PWD: ${MONGO_INITDB_PWD}
+            MONGODB_IP: ${MONGODB_IP}
+            MONGODB_PORT: ${MONGODB_PORT}
         ports:
             - ${MONGODB_PORT}:27017
         volumes:
