@@ -6,8 +6,27 @@ db.createUser({
             role: 'readWrite',
             db: 'testDB',
         },
+        {
+          role: 'readWrite',
+          db: 'admConfig',
+      },
     ],
 });
+
+confDb = new Mongo().getDB("admConfig");
+
+confDb.createCollection("credentials", { capped: false });
+
+confDb.credentials.insert([
+  {
+    "_id": "248803b5-5880-4e76-b805-4437adbee208",
+    "username": process.env.MONGO_INITDB_ACCESS_USR,
+    "password": process.env.MONGO_INITDB_ACCESS_PWD,
+    "database": "testDB",
+    "ip": process.env.MONGODB_IP,
+    "port": process.env.MONGODB_PORT
+  }
+])
 
 db = new Mongo().getDB("testDB");
 
