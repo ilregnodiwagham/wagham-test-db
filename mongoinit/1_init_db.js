@@ -24,7 +24,7 @@ confDb.credentials.insert([
     "password": process.env.MONGO_INITDB_ACCESS_PWD,
     "database": "testDB",
     "ip": process.env.MONGODB_IP,
-    "port": process.env.MONGODB_PORT
+    "port": NumberInt(process.env.MONGODB_PORT)
   }
 ])
 
