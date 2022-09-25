@@ -4,12 +4,12 @@ db.createUser({
     roles: [
         {
             role: 'readWrite',
-            db: 'testDB',
+            db: 'testDB'
         },
         {
-          role: 'readWrite',
-          db: 'admConfig',
-      },
+          role: 'dbAdmin',
+          db: 'admConfig'
+	}
     ],
 });
 
