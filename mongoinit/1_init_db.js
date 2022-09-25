@@ -3,17 +3,24 @@ db.createUser({
     pwd: process.env.MONGO_INITDB_ACCESS_PWD,
     roles: [
         {
-            role: 'readWrite',
-            db: 'testDB'
-        },
-        {
-          role: 'dbAdmin',
-          db: 'admConfig'
-	}
+          role: 'readWrite',
+          db: 'testDB'
+	      }
     ],
 });
 
-confDb = new Mongo().getDB("admConfig");
+confDb = new Mongo().getDB("configurations");
+
+confDb.createUser({
+  user: process.env.MONGO_INITDB_ACCESS_USR,
+  pwd: process.env.MONGO_INITDB_ACCESS_PWD,
+  roles: [
+      {
+        role: 'readWrite',
+        db: 'configurations'
+      }
+  ],
+});
 
 confDb.createCollection("credentials", { capped: false });
 
