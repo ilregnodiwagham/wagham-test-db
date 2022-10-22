@@ -1,0 +1,134 @@
+{"_id":0,"class":"Barbaro","subclass":"Ancestral Guardian","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:ancestral-guardian","source":"XGTE"}
+{"_id":1,"class":"Barbaro","subclass":"Battlerager","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:battlerager","source":"SCAG"}
+{"_id":2,"class":"Barbaro","subclass":"Beast","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:beast","source":"TCE"}
+{"_id":3,"class":"Barbaro","subclass":"Berserker","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:berserker","source":"PHB"}
+{"_id":4,"class":"Barbaro","subclass":"Magic Denier","race":["Dragonborn"],"territory":"Fo'Khar","link":"https://ilregnodiwagham.it/it/cammino-del-negazionista-magico/","source":"Wagham"}
+{"_id":5,"class":"Barbaro","subclass":"Headhunter","race":["Orc"],"territory":"Rukûdan","link":"https://ilregnodiwagham.it/it/cammino-del-cacciatore-di-teste/","source":"Wagham"}
+{"_id":6,"class":"Barbaro","subclass":"Storm Herald","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:storm-herald","source":"XGTE"}
+{"_id":7,"class":"Barbaro","subclass":"Totem Warrior","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:totem-warrior","source":"PHB"}
+{"_id":8,"class":"Barbaro","subclass":"Wild Magic","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:wild-magic","source":"TCE"}
+{"_id":9,"class":"Barbaro","subclass":"Zealot","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/barbarian:zealot","source":"XGTE"}
+{"_id":10,"class":"Bardo","subclass":"Creation","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:creation","source":"TCE"}
+{"_id":11,"class":"Bardo","subclass":"Eloquence","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:eloquence","source":"TCE"}
+{"_id":12,"class":"Bardo","subclass":"Glamour","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:glamour","source":"XGTE"}
+{"_id":13,"class":"Bardo","subclass":"Lore","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:lore","source":"PHB"}
+{"_id":14,"class":"Bardo","subclass":"Spirits","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:spirits","source":"VRGR"}
+{"_id":15,"class":"Bardo","subclass":"Sword","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:swords","source":"XGTE"}
+{"_id":16,"class":"Bardo","subclass":"Valor","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:valor","source":"PHB"}
+{"_id":17,"class":"Bardo","subclass":"Whisper","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/bard:whispers","source":"XGTE"}
+{"_id":18,"class":"Bardo","subclass":"Yodel","race":["Goliath"],"territory":"Montagne di Smeg","link":"https://ilregnodiwagham.it/it/collegio-dello-yodel/","source":"Wagham"}
+{"_id":19,"class":"Chierico","subclass":"Arcana","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:arcana","source":"SCAG"}
+{"_id":20,"class":"Chierico","subclass":"Beauty","race":["Human","Aasimar"],"territory":"Impero di Arcotia","link":"https://ilregnodiwagham.it/it/dominio-della-bellezza/","source":"Wagham"}
+{"_id":21,"class":"Chierico","subclass":"Death","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:death","source":"DMG"}
+{"_id":22,"class":"Chierico","subclass":"Forge","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:forge","source":"XGTE"}
+{"_id":23,"class":"Chierico","subclass":"Grave","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:grave","source":"XGTE"}
+{"_id":24,"class":"Chierico","subclass":"Knowledge","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:knowledge","source":"PHB"}
+{"_id":25,"class":"Chierico","subclass":"Life","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:life","source":"PHB"}
+{"_id":26,"class":"Chierico","subclass":"Light","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:light","source":"PHB"}
+{"_id":27,"class":"Chierico","subclass":"Nature","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:nature","source":"PHB"}
+{"_id":28,"class":"Chierico","subclass":"Order","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:order","source":"TCE"}
+{"_id":29,"class":"Chierico","subclass":"Peace","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:peace","source":"TCE"}
+{"_id":30,"class":"Chierico","subclass":"Tempest","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:tempest","source":"PHB"}
+{"_id":31,"class":"Chierico","subclass":"Trickery","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:trickery","source":"PHB"}
+{"_id":32,"class":"Chierico","subclass":"Twilight","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:twilight","source":"TCE"}
+{"_id":33,"class":"Chierico","subclass":"War","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/cleric:war","source":"PHB"}
+{"_id":34,"class":"Druido","subclass":"Amueron","race":["Wood Elf"],"territory":"Amueron","link":"https://ilregnodiwagham.it/it/circolo-di-amueron/","source":"Wagham"}
+{"_id":35,"class":"Druido","subclass":"Dream","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/druid:dreams","source":"XGTE"}
+{"_id":36,"class":"Druido","subclass":"Land","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/druid:land","source":"PHB"}
+{"_id":37,"class":"Druido","subclass":"Moon","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/druid:moon","source":"PHB"}
+{"_id":38,"class":"Druido","subclass":"Shepherd","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/druid:shepherd","source":"PHB"}
+{"_id":39,"class":"Druido","subclass":"Spores","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/druid:spores","source":"TCE"}
+{"_id":40,"class":"Druido","subclass":"Stars","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/druid:stars","source":"TCE"}
+{"_id":41,"class":"Druido","subclass":"Wildfire","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/druid:wildfire","source":"TCE"}
+{"_id":42,"class":"Guerriero","subclass":"Arcane Archer","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:arcane-archer","source":"XGTE"}
+{"_id":43,"class":"Guerriero","subclass":"Banneret","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:banneret","source":"SCAG"}
+{"_id":44,"class":"Guerriero","subclass":"Battle Master","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:battle-master","source":"PHB"}
+{"_id":45,"class":"Guerriero","subclass":"Cavalier","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:cavalier","source":"XGTE"}
+{"_id":46,"class":"Guerriero","subclass":"Champion","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:champion","source":"PHB"}
+{"_id":47,"class":"Guerriero","subclass":"Echo Knight","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:echo-knight","source":"XGW"}
+{"_id":48,"class":"Guerriero","subclass":"Eldrich Knight","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:eldritch-knight","source":"PHB"}
+{"_id":49,"class":"Guerriero","subclass":"Psi Warrior","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:psi-warrior","source":"TCE"}
+{"_id":50,"class":"Guerriero","subclass":"Raptor Knight","race":["Dragonborn"],"territory":"Japachi","link":"https://ilregnodiwagham.it/it/cavaliere-dei-raptor/","source":"Wagham"}
+{"_id":51,"class":"Guerriero","subclass":"Rune Knight","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:rune-knight","source":"TCE"}
+{"_id":52,"class":"Guerriero","subclass":"Samurai","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/fighter:samurai","source":"XGTE"}
+{"_id":53,"class":"Guerriero","subclass":"Seasons Knight","race":["Eladrin"],"territory":"Kusia","link":"https://ilregnodiwagham.it/it/combattente-delle-stagioni/","source":"Wagham"}
+{"_id":54,"class":"Ladro","subclass":"Arcane Trickster","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:arcane-trickster","source":"PHB"}
+{"_id":55,"class":"Ladro","subclass":"Assassin","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:assassin","source":"PHB"}
+{"_id":56,"class":"Ladro","subclass":"Blood Cultist","race":["Drow","Shadar-Kai"],"territory":"","link":"https://ilregnodiwagham.it/it/cultista-del-sangue/","source":"Wagham"}
+{"_id":57,"class":"Ladro","subclass":"Greazing Doctor","race":["Human","Genasi","Half-Elf"],"territory":"","link":"https://ilregnodiwagham.it/it/medico-untore/","source":"Wagham"}
+{"_id":58,"class":"Ladro","subclass":"Inquisitive","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:inquisitive","source":"XGTE"}
+{"_id":59,"class":"Ladro","subclass":"Mastermind","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:mastermind","source":"XGTE"}
+{"_id":60,"class":"Ladro","subclass":"Mimic","race":["Kenku"],"territory":"","link":"https://ilregnodiwagham.it/it/imitatore/","source":"Wagham"}
+{"_id":61,"class":"Ladro","subclass":"Phantom","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:phantom","source":"TCE"}
+{"_id":62,"class":"Ladro","subclass":"Scout","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:scout","source":"XGTE"}
+{"_id":63,"class":"Ladro","subclass":"Soullknife","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:soulknife","source":"TCE"}
+{"_id":64,"class":"Ladro","subclass":"Swashbuckler","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:swashbuckler","source":"XGTE"}
+{"_id":65,"class":"Ladro","subclass":"Thief","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/rogue:thief","source":"PHB"}
+{"_id":66,"class":"Mago","subclass":"Abjuration","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:abjuration","source":"PHB"}
+{"_id":67,"class":"Mago","subclass":"Arcane Infusion","race":["Gnome"],"territory":"Gnomerion","link":"https://ilregnodiwagham.it/it/ordine-infusione-arcana/","source":"Wagham"}
+{"_id":68,"class":"Mago","subclass":"Archivist","race":["High Elf"],"territory":"Città Stato di Ornwelun","link":"https://ilregnodiwagham.it/it/archivista/","source":"Wagham"}
+{"_id":69,"class":"Mago","subclass":"Bladesinging","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:bladesinging","source":"TCE"}
+{"_id":70,"class":"Mago","subclass":"Chronurgy","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:chronurgy","source":"XGW"}
+{"_id":71,"class":"Mago","subclass":"Conjuration","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:conjuration","source":"PHB"}
+{"_id":72,"class":"Mago","subclass":"Divination","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:divination","source":"PHB"}
+{"_id":73,"class":"Mago","subclass":"Enchantment","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:enchantment","source":"PHB"}
+{"_id":74,"class":"Mago","subclass":"Evocation","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:evocation","source":"PHB"}
+{"_id":75,"class":"Mago","subclass":"Graviturgy","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:graviturgy","source":"XGW"}
+{"_id":76,"class":"Mago","subclass":"Illusion","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:illusion","source":"PHB"}
+{"_id":77,"class":"Mago","subclass":"Necromancy","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:necromancy","source":"PHB"}
+{"_id":78,"class":"Mago","subclass":"Order of Scribes","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:order-of-scribes","source":"TCE"}
+{"_id":79,"class":"Mago","subclass":"Transmutation","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:transmutation","source":"PHB"}
+{"_id":80,"class":"Mago","subclass":"War Magic","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/wizard:war-magic","source":"XGTE"}
+{"_id":81,"class":"Monaco","subclass":"Arcane Fist","race":["High Elf"],"territory":"Città Stato di Ornwelun","link":"https://ilregnodiwagham.it/via-del-pugno-arcano/","source":"Wagham"}
+{"_id":82,"class":"Monaco","subclass":"Ascendant Dragon","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:ascendant-dragon","source":"FTD"}
+{"_id":83,"class":"Monaco","subclass":"Astral Self","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:astral-self","source":"TCE"}
+{"_id":84,"class":"Monaco","subclass":"Drunken Master","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:drunken-master","source":"XGTE"}
+{"_id":85,"class":"Monaco","subclass":"Four Elements","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:four-elements","source":"PHB"}
+{"_id":86,"class":"Monaco","subclass":"Golden Fist","race":["Dwarf"],"territory":"Protettorato di Inveriw","link":"https://ilregnodiwagham.it/it/via-del-pugno-dorato/","source":"Wagham"}
+{"_id":87,"class":"Monaco","subclass":"Kensei","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:kensei","source":"XGTE"}
+{"_id":88,"class":"Monaco","subclass":"Long Death","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:long-death","source":"SCAG"}
+{"_id":89,"class":"Monaco","subclass":"Mercy","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:mercy","source":"TCE"}
+{"_id":90,"class":"Monaco","subclass":"Open Hand","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:open-hand","source":"PHB"}
+{"_id":91,"class":"Monaco","subclass":"Shadow","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:shadow","source":"PHB"}
+{"_id":92,"class":"Monaco","subclass":"Sun Soul","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/monk:sun-soul","source":"XGTE"}
+{"_id":93,"class":"Monaco","subclass":"Universal Equilibrium","race":["Gith"],"territory":"Krezanith","link":"https://ilregnodiwagham.it/it/via-dellequilibrio-universale/","source":"Wagham"}
+{"_id":94,"class":"Paladino","subclass":"Ancients","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:ancients","source":"PHB"}
+{"_id":95,"class":"Paladino","subclass":"Conquest","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:conquest","source":"XGTE"}
+{"_id":96,"class":"Paladino","subclass":"Crown","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:crown","source":"SCAG"}
+{"_id":97,"class":"Paladino","subclass":"Devotion","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:devotion","source":"PHB"}
+{"_id":98,"class":"Paladino","subclass":"Glory","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:glory","source":"TCE"}
+{"_id":99,"class":"Paladino","subclass":"Oathbreaker","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:oathbreaker","source":"DMG"}
+{"_id":100,"class":"Paladino","subclass":"Obedience","race":["Human","Yuan-Ti"],"territory":"Califfato di Sratjiss","link":"https://ilregnodiwagham.it/it/giuramento-di-sottomissione/","source":"Wagham"}
+{"_id":101,"class":"Paladino","subclass":"Redemption","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:redemption","source":"XGTE"}
+{"_id":102,"class":"Paladino","subclass":"Vengeance","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:vengeance","source":"PHB"}
+{"_id":103,"class":"Paladino","subclass":"Watchers","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/paladin:watchers","source":"TCE"}
+{"_id":104,"class":"Ranger","subclass":"Balsamic Fighter","race":["Dwarf"],"territory":"Intibhir","link":"https://ilregnodiwagham.it/it/combattente-balsamico/","source":"Wagham"}
+{"_id":105,"class":"Ranger","subclass":"Beast Master","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:beast-master","source":"TCE"}
+{"_id":106,"class":"Ranger","subclass":"Drakewarden","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:drakewarden","source":"FTD"}
+{"_id":107,"class":"Ranger","subclass":"Fey Wanderer","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:fey-wanderer","source":"TCE"}
+{"_id":108,"class":"Ranger","subclass":"Gloom Stalker","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:gloom-stalker","source":"XGTE"}
+{"_id":109,"class":"Ranger","subclass":"Horizon Walker","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:horizon-walker","source":"XGTE"}
+{"_id":110,"class":"Ranger","subclass":"Hunter","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:hunter","source":"PHB"}
+{"_id":111,"class":"Ranger","subclass":"Monster Slayer","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:monster-slayer","source":"XGTE"}
+{"_id":112,"class":"Ranger","subclass":"Swarmkeeper","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/ranger:swarmkeeper","source":"TCE"}
+{"_id":113,"class":"Ranger","subclass":"Trapper","race":["Kobold"],"territory":"Japachi","link":"https://ilregnodiwagham.it/it/trappoliere/","source":"Wagham"}
+{"_id":114,"class":"Stregone","subclass":"Aberrant Mind","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/sorcerer:aberrant-mind","source":"TCE"}
+{"_id":115,"class":"Stregone","subclass":"Abyssal Lineage","race":["Tiefling"],"territory":"Corno e Lingua del Demone","link":"https://ilregnodiwagham.it/it/discendenza-abissale/","source":"Wagham"}
+{"_id":116,"class":"Stregone","subclass":"Clockwork Soul","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/sorcerer:clockwork-soul","source":"TCE"}
+{"_id":117,"class":"Stregone","subclass":"Draconic Bloodline","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/sorcerer:draconic-bloodline","source":"PHB"}
+{"_id":118,"class":"Stregone","subclass":"Divine Soul","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/sorcerer:divine-soul","source":"XGTE"}
+{"_id":119,"class":"Stregone","subclass":"Shadow Magic","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/sorcerer:shadow-magic","source":"XGTE"}
+{"_id":120,"class":"Stregone","subclass":"Storm Sorcery","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/sorcerer:storm-sorcery","source":"XGTE"}
+{"_id":121,"class":"Stregone","subclass":"Wild Magic","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/sorcerer:wild-magic","source":"PHB"}
+{"_id":122,"class":"Warlock","subclass":"Archfey","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:archfey","source":"PHB"}
+{"_id":123,"class":"Warlock","subclass":"Candle","race":["Human","Genasi","Half-Elf"],"territory":"Sanguine’s Slough","link":"https://ilregnodiwagham.it/it/la-candela/","source":"Wagham"}
+{"_id":124,"class":"Warlock","subclass":"Celestial","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:celestial","source":"XGTE"}
+{"_id":125,"class":"Warlock","subclass":"Fathomless","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:fathomless","source":"TCE"}
+{"_id":126,"class":"Warlock","subclass":"Fiend","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:fiend","source":"PHB"}
+{"_id":127,"class":"Warlock","subclass":"Genie","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:the-genie","source":"TCE"}
+{"_id":128,"class":"Warlock","subclass":"Great Old One","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:great-old-one","source":"PHB"}
+{"_id":129,"class":"Warlock","subclass":"Oniric Tyrant","race":["Human","Genasi","Half-Elf"],"territory":"Sanguine’s Slough","link":"https://ilregnodiwagham.it/it/tiranno-onirico/","source":"Wagham"}
+{"_id":130,"class":"Warlock","subclass":"Hexblade","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:hexblade","source":"XGTE"}
+{"_id":131,"class":"Warlock","subclass":"Pyre","race":["Lizardfolk"],"territory":"La Fortezza","link":"https://ilregnodiwagham.it/it/la-pira/","source":"Wagham"}
+{"_id":132,"class":"Warlock","subclass":"Undead","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:undead","source":"VRGR"}
+{"_id":133,"class":"Warlock","subclass":"Undying","race":[""],"territory":"no","link":"http://dnd5e.wikidot.com/warlock:undying","source":"SCAG"}

@@ -1,0 +1,8 @@
+{"_id":"TestaDiRapa","pwd":"pbkdf2:sha256:150000$CtmKtWwC$b51d11449192c662901471cd88e77250206ab948dd8fd88e0e28d5e7a26cce51","isActive":true,"isAuthenticated":true,"isAnonymous":false}
+{"_id":"albydeba","pwd":"pbkdf2:sha256:150000$umaCIUvM$4563aba622811abeee5ef76f08e467dac71ff54bc484cac7a1352c1c53e66f0d","isActive":true,"isAuthenticated":true,"isAnonymous":false}
+{"_id":"charuzu","pwd":"pbkdf2:sha256:150000$Q33YyYF5$d6e454f6ee685d82cff1a074a3c1361a53cfb80be0653a438c7e61b6233359d9","isActive":false,"isAuthenticated":true,"isAnonymous":false}
+{"_id":"TheVoices","pwd":"pbkdf2:sha256:150000$v3yodVIG$28ed7c2f3b68d5dfc94505d2daa261b335aff8d5db7f3155cca7ba18ce55be39","isActive":true,"isAuthenticated":true,"isAnonymous":false}
+{"_id":"enne","pwd":"pbkdf2:sha256:260000$YEaiIR7uqwiduPqF$0e852386eed7409a9b52965557e445032ded91024180af26344aca305fa4d012","isActive":true,"isAuthenticated":true,"isAnonymous":false}
+{"_id":"calcifer","pwd":"pbkdf2:sha256:260000$LCjEHSU2TRPnZASL$73156d5a35bd3fa50080e941d63e144bdf86e7cd3b696c9b911c3f4536af2349","isActive":true,"isAuthenticated":true,"isAnonymous":false}
+{"_id":"Nephirot","pwd":"pbkdf2:sha256:260000$WhQDQUWXw8haTIZC$781b9a46b1050dece02e33215038fdfa24fe67dae941bb19886d5bd2d743281a","isActive":true,"isAuthenticated":true,"isAnonymous":false}
+{"_id":"glace","pwd":"pbkdf2:sha256:260000$PvbvrRrIQq9NM6dm$612d2744a0b40a302f189768cc7f98d38d2065988cb0dd299f7fc78b05b9f42f","isActive":true,"isAuthenticated":true,"isAnonymous":false}

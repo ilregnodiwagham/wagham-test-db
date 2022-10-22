@@ -1,0 +1,84 @@
+{"_id":"Actor","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:actor","source":"PHB"}
+{"_id":"Aerial Fighting","race":["Aarakocra"],"asi":false,"link":"https://ilregnodiwagham.it/it/combattimento-in-volo/","source":"Wagham"}
+{"_id":"Alert","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:alert","source":"PHB"}
+{"_id":"Athlete","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:athlete","source":"PHB"}
+{"_id":"Blood Fury","race":["Minotaur"],"asi":true,"link":"https://ilregnodiwagham.it/it/rosso-sangue/","source":"Wagham"}
+{"_id":"Bountiful Luck","race":["Halfling"],"asi":false,"link":"http://dnd5e.wikidot.com/feat:bountiful-luck","source":"XGTE"}
+{"_id":"Charger","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:charger","source":"PHB"}
+{"_id":"Chef","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:chef","source":"TCE"}
+{"_id":"Crossbow Expert","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:crossbow-expert","source":"PHB"}
+{"_id":"Crusher","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:crusher","source":"TCE"}
+{"_id":"Defensive Duelist","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:defensive-duelist","source":"PHB"}
+{"_id":"Dragon Fear","race":["Dragonborn"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:dragon-fear","source":"XGW"}
+{"_id":"Dragon Hide","race":["Dragonborn"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:dragon-hide","source":"XGTE"}
+{"_id":"Drow High Magic","race":["Drow"],"asi":false,"link":"http://dnd5e.wikidot.com/feat:drow-high-magic","source":"XGTE"}
+{"_id":"Dual Wielder","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:dual-wielder","source":"PHB"}
+{"_id":"Dungeon Delver","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:dungeon-delver","source":"PHB"}
+{"_id":"Durable","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:durable","source":"PHB"}
+{"_id":"Dwarven Fortitude","race":["Dwarf"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:dwarven-resilience","source":"XGTE"}
+{"_id":"Eldritch Adept","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:eldritch-adept","source":"TCE"}
+{"_id":"Elemental Adept","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:elemental-adept","source":"PHB"}
+{"_id":"Elven Accuracy","race":["Elf"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:elven-accuracy","source":"XGTE"}
+{"_id":"Fade Away","race":["Gnome"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:fade-away","source":"XGTE"}
+{"_id":"Fey Teleportation","race":["High Elf"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:fey-teleportation","source":"XGTE"}
+{"_id":"Fey Touched","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:fey-touched","source":"TCE"}
+{"_id":"Fighting Initiate","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:fighting-initiate","source":"TCE"}
+{"_id":"Flames of Phlegethos","race":["Tiefling"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:flames-of-phlegethos","source":"XGTE"}
+{"_id":"Gift of the Chromatic Dragon","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:gift-of-the-chromatic-dragon","source":"FTD"}
+{"_id":"Gift of the Gem Dragon","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:gift-of-the-gem-dragon","source":"FTD"}
+{"_id":"Gift of the Metallic Dragon","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:gift-of-the-metallic-dragon","source":"FTD"}
+{"_id":"Grappler","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:grappler","source":"PHB"}
+{"_id":"Great Weapon Master","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:great-weapon-master","source":"PHB"}
+{"_id":"Healer","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:healer","source":"PHB"}
+{"_id":"Heavily Armored","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:heavily-armored","source":"PHB"}
+{"_id":"Heavy Armor Master","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:heavy-armor-master","source":"PHB"}
+{"_id":"Infernal Constitution","race":["Tiefling"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:infernal-constitution","source":"XGTE"}
+{"_id":"Inspiring Leader","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:inspiring-leader","source":"PHB"}
+{"_id":"Keen Mind","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:keen-mind","source":"PHB"}
+{"_id":"Lightly Armored","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:lightly-armored","source":"PHB"}
+{"_id":"Linguist","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:linguist","source":"PHB"}
+{"_id":"Lucky","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:lucky","source":"PHB"}
+{"_id":"Mage Slayer","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:mage-slayer","source":"PHB"}
+{"_id":"Magic Initiate","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:magic-initiate","source":"PHB"}
+{"_id":"Martial Adept","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:martial-adept","source":"PHB"}
+{"_id":"Medium Armor Master","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:medium-armor-master","source":"PHB"}
+{"_id":"Metamagic Adept","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:metamagic-adept","source":"TCE"}
+{"_id":"Mighty Arms","race":["Goliath"],"asi":false,"link":"https://ilregnodiwagham.it/it/braccia-possenti/","source":"Wagham"}
+{"_id":"Mobile","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:mobile","source":"PHB"}
+{"_id":"Moderately Armored","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:moderately-armored","source":"PHB"}
+{"_id":"Mounted Combatant","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:mounted-combatant","source":"PHB"}
+{"_id":"Observant","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:observant","source":"PHB"}
+{"_id":"Orcish Fury","race":["Half-Orc"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:orcish-fury","source":"XGTE"}
+{"_id":"Piercer\n\n.","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:piercer","source":"TCE"}
+{"_id":"Poisoner","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:poisoner","source":"TCE"}
+{"_id":"Polearm Master","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:polearm-master","source":"PHB"}
+{"_id":"Prodigy","race":["Half-Orc","Human","Half-Elf"],"asi":false,"link":"http://dnd5e.wikidot.com/feat:prodigy","source":"XGTE"}
+{"_id":"Protector of Nature","race":["Firbolg"],"asi":true,"link":"https://ilregnodiwagham.it/it/protettore-della-natura/","source":"Wagham"}
+{"_id":"Radiant Appearance","race":["Aasimar"],"asi":true,"link":"https://ilregnodiwagham.it/it/presenza-radiante/","source":"Wagham"}
+{"_id":"Reptile's Regeneration","race":["Lizardfolk"],"asi":true,"link":"https://ilregnodiwagham.it/it/rigenerazione-rettile/","source":"Wagham"}
+{"_id":"Resilient","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:resilient","source":"PHB"}
+{"_id":"Ritual Caster","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:ritual-caster","source":"PHB"}
+{"_id":"Savage Attacker","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:savage-attacker","source":"PHB"}
+{"_id":"Second Chance","race":["Halfling"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:second-chance","source":"XGTE"}
+{"_id":"Self-Destructive Magic","race":["Genasi"],"asi":false,"link":"https://ilregnodiwagham.it/it/magia-autodistruttiva/","source":"Wagham"}
+{"_id":"Sentinel","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:sentinel","source":"PHB"}
+{"_id":"Sentinel of Smeg","race":["Goliath"],"asi":false,"link":"https://ilregnodiwagham.it/it/sentinella-di-smeg/","source":"Wagham"}
+{"_id":"Shadow Touched","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:shadow-touched","source":"TCE"}
+{"_id":"Sharpshooter","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:sharpshooter","source":"PHB"}
+{"_id":"Shield Master","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:shield-master","source":"PHB"}
+{"_id":"Skill Expert","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:skill-expert","source":"TCE"}
+{"_id":"Skilled","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:skilled","source":"PHB"}
+{"_id":"Skulker","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:skulker","source":"PHB"}
+{"_id":"Slasher","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:slasher","source":"TCE"}
+{"_id":"Spell Sniper","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:spell-sniper","source":"PHB"}
+{"_id":"Squat Nimbleness","race":["Kobold","Halfling","Gnome","Dwarf","Goblin","Fairy"],"asi":true,"link":"http://dnd5e.wikidot.com/feat:squat-nimbleness","source":"XGTE"}
+{"_id":"Steed","race":["Centaur"],"asi":false,"link":"https://ilregnodiwagham.it/it/cavalcatura/","source":"Wagham"}
+{"_id":"Svirfneblin Magic","race":["Deep Gnome"],"asi":false,"link":"http://dnd5e.wikidot.com/feat:svirfneblin-magic","source":"MTF"}
+{"_id":"Tamaul's Acolyte","race":["Goliath"],"asi":false,"link":"https://ilregnodiwagham.it/it/seguace-di-taumul/","source":"Wagham"}
+{"_id":"Tavern Brawler","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:tavern-brawler","source":"PHB"}
+{"_id":"Telekinetic","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:telekinetic","source":"TCE"}
+{"_id":"Telepathic","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:telepathic","source":"TCE"}
+{"_id":"Tough","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:tough","source":"PHB"}
+{"_id":"War Caster","race":null,"asi":false,"link":"http://dnd5e.wikidot.com/feat:war-caster","source":"PHB"}
+{"_id":"Weapon Master","race":null,"asi":true,"link":"http://dnd5e.wikidot.com/feat:weapon-master","source":"PHB"}
+{"_id":"Wood Elf Magic","race":["Wood Elf"],"asi":false,"link":"http://dnd5e.wikidot.com/feat:wood-elf-magic","source":"XGTE"}
