@@ -5,4 +5,4 @@ mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=feats -u $DB
 mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=players -u $DB_USER -p $DB_PWD -v --file=players.json
 mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=classes -u $DB_USER -p $DB_PWD -v --file=classes.json
 mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=spells -u $DB_USER -p $DB_PWD -v --file=spells.json
-mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=utils -u $DB_USER -p $DB_PWD -v --file=utils.json
+mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=utils -u $DB_USER -p $DB_PWD -v --file=utils.json --jsonArray
