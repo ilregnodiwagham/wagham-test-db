@@ -1,0 +1,215 @@
+[{
+  "_id": "Possedimento T1",
+  "mo_cost": 400,
+  "tbadge_cost": 75,
+  "tbadge_type": "1DayT1Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_P_T1",
+  "size": "30x40x1",
+  "areas": [
+    "Esterna"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Possedimento T2",
+  "mo_cost": 1000,
+  "tbadge_cost": 100,
+  "tbadge_type": "1DayT2Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_P_T2",
+  "size": "30x40x2",
+  "areas": [
+    "Esterna",
+    "Borghese"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Possedimento T3",
+  "mo_cost": 3000,
+  "tbadge_cost": 150,
+  "tbadge_type": "1DayT3Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_P_T3",
+  "size": "30x40x3",
+  "areas": [
+    "Esterna",
+    "Borghese"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Possedimento T4",
+  "mo_cost": 10000,
+  "tbadge_cost": 200,
+  "tbadge_type": "1DayT4Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_P_T4",
+  "size": "60x40x4",
+  "areas": [
+    "Esterna",
+    "Borghese",
+    "Ricca",
+    "Estero"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Possedimento T5",
+  "mo_cost": 25000,
+  "tbadge_cost": 450,
+  "tbadge_type": "1DayT5Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_P_T5",
+  "size": "60x40x6",
+  "areas": [
+    "Esterna",
+    "Borghese",
+    "Ricca",
+    "Estero"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Officina T1",
+  "mo_cost": 350,
+  "tbadge_cost": 75,
+  "tbadge_type": "1DayT1Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_O_T1",
+  "size": "30x40x1",
+  "areas": [
+    "Esterna"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Officina T2",
+  "mo_cost": 950,
+  "tbadge_cost": 100,
+  "tbadge_type": "1DayT2Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_O_T2",
+  "size": "30x40x2",
+  "areas": [
+    "Esterna",
+    "Borghese"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Officina T3",
+  "mo_cost": 2800,
+  "tbadge_cost": 150,
+  "tbadge_type": "1DayT3Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_O_T3",
+  "size": "30x40x3",
+  "areas": [
+    "Esterna",
+    "Borghese"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Officina T4",
+  "mo_cost": 8300,
+  "tbadge_cost": 200,
+  "tbadge_type": "1DayT4Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_O_T4",
+  "size": "60x40x4",
+  "areas": [
+    "Esterna",
+    "Borghese",
+    "Ricca",
+    "Estero"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Officina T5",
+  "mo_cost": 18500,
+  "tbadge_cost": 450,
+  "tbadge_type": "1DayT5Badge",
+  "proficiency_reduction": "Mason's Tools",
+  "bounty_id": "Prize_O_T5",
+  "size": "60x40x6",
+  "areas": [
+    "Esterna",
+    "Borghese",
+    "Ricca",
+    "Estero"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Stalla T1",
+  "mo_cost": 350,
+  "tbadge_cost": 75,
+  "tbadge_type": "1DayT1Badge",
+  "proficiency_reduction": null,
+  "bounty_id": "Prize_Stalla_T1",
+  "size": "30x40x1",
+  "areas": [
+    "Esterna"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Stalla T2",
+  "mo_cost": 950,
+  "tbadge_cost": 100,
+  "tbadge_type": "1DayT2Badge",
+  "proficiency_reduction": null,
+  "bounty_id": "Prize_Stalla_T2",
+  "size": "30x40x2",
+  "areas": [
+    "Esterna"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Stalla T3",
+  "mo_cost": 2800,
+  "tbadge_cost": 150,
+  "tbadge_type": "1DayT3Badge",
+  "proficiency_reduction": null,
+  "bounty_id": "Prize_Stalla_T3",
+  "size": "30x40x3",
+  "areas": [
+    "Esterna"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Stalla T4",
+  "mo_cost": 8300,
+  "tbadge_cost": 200,
+  "tbadge_type": "1DayT4Badge",
+  "proficiency_reduction": null,
+  "bounty_id": "Prize_Stalla_T4",
+  "size": "60x40x4",
+  "areas": [
+    "Esterna",
+    "Borghese",
+    "Ricca",
+    "Estero"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Stalla T5",
+  "mo_cost": 18500,
+  "tbadge_cost": 450,
+  "tbadge_type": "1DayT5Badge",
+  "proficiency_reduction": null,
+  "bounty_id": "Prize_Stalla_T5",
+  "size": "60x40x6",
+  "areas": [
+    "Esterna",
+    "Borghese",
+    "Ricca",
+    "Estero"
+  ],
+  "desc_size": 300
+},{
+  "_id": "Mercato T1",
+  "mo_cost": 400,
+  "tbadge_cost": 75,
+  "tbadge_type": "1DayT1Badge",
+  "proficiency_reduction": "ProficiencyBadge",
+  "bounty_id": "Prize_Mkt_T1",
+  "size": "30x40x1",
+  "areas": [
+    "Esterna"
+  ],
+  "desc_size": 300
+}]

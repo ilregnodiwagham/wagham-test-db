@@ -1,0 +1,685 @@
+[{
+  "_id": "Prize_P_T1",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 14,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 28,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 56,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 112,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 224,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_P_T2",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 28,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 56,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 112,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 224,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 448,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_P_T3",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 105,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 210,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 420,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 840,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 1680,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_P_T4",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 350,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 700,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 1400,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 2800,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 5600,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_P_T5",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 875,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 1750,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 3500,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 7000,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 14000,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_O_T1",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 0,
+      "prize_id": "1DayT1Badge",
+      "prize_delta": 4,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 0,
+      "prize_id": "1DayT1Badge",
+      "prize_delta": 7,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 0,
+      "prize_id": "1DayT1Badge",
+      "prize_delta": 14,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 0,
+      "prize_id": "1DayT1Badge",
+      "prize_delta": 28,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 0,
+      "prize_id": "1DayT1Badge",
+      "prize_delta": 56,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_O_T2",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 0,
+      "prize_id": "1DayT2Badge",
+      "prize_delta": 5,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 0,
+      "prize_id": "1DayT2Badge",
+      "prize_delta": 11,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 0,
+      "prize_id": "1DayT2Badge",
+      "prize_delta": 21,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 0,
+      "prize_id": "1DayT2Badge",
+      "prize_delta": 42,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 0,
+      "prize_id": "1DayT2Badge",
+      "prize_delta": 84,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_O_T3",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 18,
+      "prize_id": "1DayT3Badge",
+      "prize_delta": 7,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 35,
+      "prize_id": "1DayT3Badge",
+      "prize_delta": 14,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 70,
+      "prize_id": "1DayT3Badge",
+      "prize_delta": 28,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 140,
+      "prize_id": "1DayT3Badge",
+      "prize_delta": 56,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 280,
+      "prize_id": "1DayT3Badge",
+      "prize_delta": 112,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_O_T4",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 70,
+      "prize_id": "1DayT4Badge",
+      "prize_delta": 14,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 140,
+      "prize_id": "1DayT4Badge",
+      "prize_delta": 28,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 280,
+      "prize_id": "1DayT4Badge",
+      "prize_delta": 56,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 560,
+      "prize_id": "1DayT4Badge",
+      "prize_delta": 112,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 1120,
+      "prize_id": "1DayT4Badge",
+      "prize_delta": 224,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_O_T5",
+  "prizes": [
+    {
+      "p": 0.02,
+      "mo_delta": 140,
+      "prize_id": "1DayT5Badge",
+      "prize_delta": 26,
+      "prize_list": [],
+      "announce_id": "CriticalFail"
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 280,
+      "prize_id": "1DayT5Badge",
+      "prize_delta": 53,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.8,
+      "mo_delta": 560,
+      "prize_id": "1DayT5Badge",
+      "prize_delta": 105,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.08,
+      "mo_delta": 1120,
+      "prize_id": "1DayT5Badge",
+      "prize_delta": 210,
+      "prize_list": [],
+      "announce_id": "Success"
+    },
+    {
+      "p": 0.02,
+      "mo_delta": 2240,
+      "prize_id": "1DayT5Badge",
+      "prize_delta": 420,
+      "prize_list": [],
+      "announce_id": "Jackpot"
+    }
+  ]
+},{
+  "_id": "Prize_Stalla_T1",
+  "prizes": [
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR1/4",
+      "prize_delta": -1,
+      "prize_list": [],
+      "announce_id": "LostBeast"
+    },
+    {
+      "p": 0.9,
+      "mo_delta": -5,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR1/4",
+      "prize_delta": 1,
+      "prize_list": [],
+      "announce_id": "WinBeast"
+    }
+  ]
+},{
+  "_id": "Prize_Stalla_T2",
+  "prizes": [
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR1/2",
+      "prize_delta": -1,
+      "prize_list": [],
+      "announce_id": "LostBeast"
+    },
+    {
+      "p": 0.9,
+      "mo_delta": -10,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR1/2",
+      "prize_delta": 1,
+      "prize_list": [],
+      "announce_id": "WinBeast"
+    }
+  ]
+},{
+  "_id": "Prize_Stalla_T3",
+  "prizes": [
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR1",
+      "prize_delta": -1,
+      "prize_list": [],
+      "announce_id": "LostBeast"
+    },
+    {
+      "p": 0.9,
+      "mo_delta": -25,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR1",
+      "prize_delta": 1,
+      "prize_list": [],
+      "announce_id": "WinBeast"
+    }
+  ]
+},{
+  "_id": "Prize_Stalla_T4",
+  "prizes": [
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR2",
+      "prize_delta": -1,
+      "prize_list": [],
+      "announce_id": "LostBeast"
+    },
+    {
+      "p": 0.9,
+      "mo_delta": -50,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR2",
+      "prize_delta": 1,
+      "prize_list": [],
+      "announce_id": "WinBeast"
+    }
+  ]
+},{
+  "_id": "Prize_Stalla_T5",
+  "prizes": [
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR4",
+      "prize_delta": -1,
+      "prize_list": [],
+      "announce_id": "LostBeast"
+    },
+    {
+      "p": 0.9,
+      "mo_delta": -100,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.05,
+      "mo_delta": 0,
+      "prize_id": "BeastCR4",
+      "prize_delta": 1,
+      "prize_list": [],
+      "announce_id": "WinBeast"
+    }
+  ]
+},{
+  "_id": "Prize_Mkt_T1",
+  "prizes": [
+    {
+      "p": 0.05,
+      "mo_delta": -56,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": "Fail"
+    },
+    {
+      "p": 0.9,
+      "mo_delta": 56,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [],
+      "announce_id": null
+    },
+    {
+      "p": 0.05,
+      "mo_delta": 56,
+      "prize_id": null,
+      "prize_delta": 0,
+      "prize_list": [
+        {
+          "item_id": "Capo di Bestiame",
+          "qty": 10,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Farina - Sacco (50 lb)",
+          "qty": 50,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Ferro - Lingotto (10 lb)",
+          "qty": 50,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Grano - Sacco (100 lb)",
+          "qty": 50,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Minerali grezzi - Cestone (25 lb)",
+          "qty": 2,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Oro - Lingotto (1 lb)",
+          "qty": 1,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Piante medicinali - Sacco (2 lb)",
+          "qty": 10,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Rame - Lingotto (2 lb)",
+          "qty": 50,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Sale - Sacco (20 lb)",
+          "qty": 50,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Selvaggina - Capo (20 lb)",
+          "qty": 10,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Spezie - Vaso (1 lb)",
+          "qty": 3,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Telo canapa - Rotolo (10 mq)",
+          "qty": 50,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Telo cotone - Rotolo (2 mq)",
+          "qty": 50,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Telo lino - Rotolo (1 mq)",
+          "qty": 10,
+          "p": 0.06666666666666667
+        },
+        {
+          "item_id": "Telo Seta - Rotolo (1 mq)",
+          "qty": 5,
+          "p": 0.06666666666666667
+        }
+      ],
+      "announce_id": "Success"
+    }
+  ]
+}]

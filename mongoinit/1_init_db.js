@@ -45,3 +45,5 @@ db.createCollection('players', { capped: false });
 db.createCollection('classes', { capped: false });
 db.createCollection('spells', { capped: false });
 db.createCollection('utils', { capped: false });
+db.createCollection('buildingtypes', { capped: false });
+db.createCollection('bounties', { capped: false });
