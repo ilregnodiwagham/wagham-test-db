@@ -1,0 +1,586 @@
+[{
+  "_id": "Aasimar:Fallen",
+  "race": "Aasimar",
+  "subrace": "Fallen",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Aasimar:Protector",
+  "race": "Aasimar",
+  "subrace": "Protector",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Aasimar:Scourge",
+  "race": "Aasimar",
+  "subrace": "Scourge",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Avian:Dark",
+  "race": "Avian",
+  "subrace": "Dark",
+  "link": "",
+  "territories": [
+    "Savana di Heba"
+  ]
+},{
+  "_id": "Avian:Mountain",
+  "race": "Avian",
+  "subrace": "Mountain",
+  "link": "",
+  "territories": [
+    "Oligarchia di Intibhir"
+  ]
+},{
+  "_id": "Centaur:no",
+  "race": "Centaur",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Tribù dei Verdi Pascoli"
+  ]
+},{
+  "_id": "Dragonborn:Fo'Khar",
+  "race": "Dragonborn",
+  "subrace": "Fo'Khar",
+  "link": "",
+  "territories": [
+    "Fo'Khar"
+  ]
+},{
+  "_id": "Dragonborn:Japachi",
+  "race": "Dragonborn",
+  "subrace": "Japachi",
+  "link": "",
+  "territories": [
+    "Japachi"
+  ]
+},{
+  "_id": "Dragonborn:Lizardfolk",
+  "race": "Dragonborn",
+  "subrace": "Lizardfolk",
+  "link": "",
+  "territories": [
+    "La Fortezza"
+  ]
+},{
+  "_id": "Dwarf:Dark",
+  "race": "Dwarf",
+  "subrace": "Dark",
+  "link": "",
+  "territories": [
+    "Oligarchia di Intibhir",
+    "Protettorato di Inveriw"
+  ]
+},{
+  "_id": "Dwarf:Hill",
+  "race": "Dwarf",
+  "subrace": "Hill",
+  "link": "",
+  "territories": [
+    "Oligarchia di Intibhir",
+    "Protettorato di Inveriw"
+  ]
+},{
+  "_id": "Dwarf:Mountain",
+  "race": "Dwarf",
+  "subrace": "Mountain",
+  "link": "",
+  "territories": [
+    "Oligarchia di Intibhir",
+    "Protettorato di Inveriw"
+  ]
+},{
+  "_id": "Elf:Amueron",
+  "race": "Elf",
+  "subrace": "Amueron",
+  "link": "",
+  "territories": [
+    "Amueron"
+  ]
+},{
+  "_id": "Elf:Dark",
+  "race": "Elf",
+  "subrace": "Dark",
+  "link": "",
+  "territories": [
+    "Fanendeluial"
+  ]
+},{
+  "_id": "Elf:Kusia",
+  "race": "Elf",
+  "subrace": "Kusia",
+  "link": "",
+  "territories": [
+    "Kusia"
+  ]
+},{
+  "_id": "Elf:Ornwelun",
+  "race": "Elf",
+  "subrace": "Ornwelun",
+  "link": "",
+  "territories": [
+    "Città Stato di Ornwelun"
+  ]
+},{
+  "_id": "Elf:Sea",
+  "race": "Elf",
+  "subrace": "Sea",
+  "link": "",
+  "territories": [
+    "Vapua, Kiunur e Hirmaa"
+  ]
+},{
+  "_id": "Elf:Shadow",
+  "race": "Elf",
+  "subrace": "Shadow",
+  "link": "",
+  "territories": [
+    "Fanendeluial"
+  ]
+},{
+  "_id": "Fairy:no",
+  "race": "Fairy",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Kusia"
+  ]
+},{
+  "_id": "Felinid:Catfolk",
+  "race": "Felinid",
+  "subrace": "Catfolk",
+  "link": "",
+  "territories": [
+    "Terre di Drelluma"
+  ]
+},{
+  "_id": "Felinid:Lionfolk",
+  "race": "Felinid",
+  "subrace": "Lionfolk",
+  "link": "",
+  "territories": [
+    "Terre di Drelluma",
+    "Amueron"
+  ]
+},{
+  "_id": "Firbolg:no",
+  "race": "Firbolg",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Bolgar’s Marsh"
+  ]
+},{
+  "_id": "Gnome:Dark",
+  "race": "Gnome",
+  "subrace": "Dark",
+  "link": "",
+  "territories": [
+    "Gnomerion",
+    "Oligarchia di Intibhir"
+  ]
+},{
+  "_id": "Gnome:Forest",
+  "race": "Gnome",
+  "subrace": "Forest",
+  "link": "",
+  "territories": [
+    "Gnomerion",
+    "Oligarchia di Intibhir"
+  ]
+},{
+  "_id": "Gnome:Rock",
+  "race": "Gnome",
+  "subrace": "Rock",
+  "link": "",
+  "territories": [
+    "Gnomerion",
+    "Oligarchia di Intibhir"
+  ]
+},{
+  "_id": "Goblinoid:Goblin",
+  "race": "Goblinoid",
+  "subrace": "Goblin",
+  "link": "",
+  "territories": [
+    "Rukûdan"
+  ]
+},{
+  "_id": "Half-Elemental:Air",
+  "race": "Half-Elemental",
+  "subrace": "Air",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia",
+    "Bolgar’s Marsh"
+  ]
+},{
+  "_id": "Half-Elemental:Earth",
+  "race": "Half-Elemental",
+  "subrace": "Earth",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia",
+    "Bolgar’s Marsh"
+  ]
+},{
+  "_id": "Half-Elemental:Fire",
+  "race": "Half-Elemental",
+  "subrace": "Fire",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia",
+    "Bolgar’s Marsh"
+  ]
+},{
+  "_id": "Half-Elemental:Water",
+  "race": "Half-Elemental",
+  "subrace": "Water",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia",
+    "Bolgar’s Marsh"
+  ]
+},{
+  "_id": "Half-Elf:Amueron",
+  "race": "Half-Elf",
+  "subrace": "Amueron",
+  "link": "",
+  "territories": [
+    "Amueron",
+    "Bolgar’s Marsh",
+    "Sanguine’s Slough"
+  ]
+},{
+  "_id": "Half-Elf:Fanendeluial",
+  "race": "Half-Elf",
+  "subrace": "Fanendeluial",
+  "link": "",
+  "territories": [
+    "Fanendeluial",
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Half-Elf:Kusia",
+  "race": "Half-Elf",
+  "subrace": "Kusia",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Half-Elf:Sea",
+  "race": "Half-Elf",
+  "subrace": "Sea",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Half-Giant:no",
+  "race": "Half-Giant",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Montagne di Smeg"
+  ]
+},{
+  "_id": "Half-Orc:no",
+  "race": "Half-Orc",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Rukûdan",
+    "Sanguine’s Slough"
+  ]
+},{
+  "_id": "Halfling:Ghostwise",
+  "race": "Halfling",
+  "subrace": "Ghostwise",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Halfling:Lightfoot",
+  "race": "Halfling",
+  "subrace": "Lightfoot",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Halfling:Stout",
+  "race": "Halfling",
+  "subrace": "Stout",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia"
+  ]
+},{
+  "_id": "Human:Amazon",
+  "race": "Human",
+  "subrace": "Amazon",
+  "link": "",
+  "territories": [
+    "Sorellanza delle Amazzoni"
+  ]
+},{
+  "_id": "Human:Cursed",
+  "race": "Human",
+  "subrace": "Cursed",
+  "link": "",
+  "territories": [
+    "Bolgar’s Marsh",
+    "Sanguine’s Slough"
+  ]
+},{
+  "_id": "Human:Dhampir",
+  "race": "Human",
+  "subrace": "Dhampir",
+  "link": "",
+  "territories": [
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Human:Reborn",
+  "race": "Human",
+  "subrace": "Reborn",
+  "link": "",
+  "territories": [
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Human:Reptilian",
+  "race": "Human",
+  "subrace": "Reptilian",
+  "link": "",
+  "territories": [
+    "Califfato di Sratjiss"
+  ]
+},{
+  "_id": "Human:Standard",
+  "race": "Human",
+  "subrace": "Standard",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia",
+    "Bolgar’s Marsh",
+    "Sanguine’s Slough",
+    "Gran Ducato di Vatakia",
+    "Califfato di Sratjiss",
+    "Rukûdan",
+    "Federazione di Ma"
+  ]
+},{
+  "_id": "Human:Variant",
+  "race": "Human",
+  "subrace": "Variant",
+  "link": "",
+  "territories": [
+    "Impero di Arcotia",
+    "Bolgar’s Marsh",
+    "Sanguine’s Slough",
+    "Gran Ducato di Vatakia",
+    "Califfato di Sratjiss",
+    "Rukûdan",
+    "Federazione di Ma"
+  ]
+},{
+  "_id": "Kobold:no",
+  "race": "Kobold",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Japachi"
+  ]
+},{
+  "_id": "Krez:Krezerai",
+  "race": "Krez",
+  "subrace": "Krezerai",
+  "link": "",
+  "territories": [
+    "Krezanith"
+  ]
+},{
+  "_id": "Krez:Krezyanki",
+  "race": "Krez",
+  "subrace": "Krezyanki",
+  "link": "",
+  "territories": [
+    "Krezanith"
+  ]
+},{
+  "_id": "Matalingwe:Matalin",
+  "race": "Matalingwe",
+  "subrace": "Matalin",
+  "link": "",
+  "territories": [
+    "Lingwenor"
+  ]
+},{
+  "_id": "Matalingwe:Matalthar",
+  "race": "Matalingwe",
+  "subrace": "Matalthar",
+  "link": "",
+  "territories": [
+    "Lingwenor"
+  ]
+},{
+  "_id": "Minotaur:no",
+  "race": "Minotaur",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Federazione di Ma"
+  ]
+},{
+  "_id": "Myconid:Bioluminescent",
+  "race": "Myconid",
+  "subrace": "Bioluminescent",
+  "link": "",
+  "territories": [
+    "Amueron",
+    "Kusia"
+  ]
+},{
+  "_id": "Myconid:Psychotropic",
+  "race": "Myconid",
+  "subrace": "Psychotropic",
+  "link": "",
+  "territories": [
+    "Amueron",
+    "Kusia"
+  ]
+},{
+  "_id": "Myconid:Toxic",
+  "race": "Myconid",
+  "subrace": "Toxic",
+  "link": "",
+  "territories": [
+    "Amueron",
+    "Kusia"
+  ]
+},{
+  "_id": "Orc:no",
+  "race": "Orc",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Rukûdan"
+  ]
+},{
+  "_id": "Satyr:no",
+  "race": "Satyr",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Amueron"
+  ]
+},{
+  "_id": "Tiefling:Drath’tathach",
+  "race": "Tiefling",
+  "subrace": "Drath’tathach",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Orgethiz",
+  "race": "Tiefling",
+  "subrace": "Orgethiz",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Quphi",
+  "race": "Tiefling",
+  "subrace": "Quphi",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Trarthrath",
+  "race": "Tiefling",
+  "subrace": "Trarthrath",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Winged",
+  "race": "Tiefling",
+  "subrace": "Winged",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Xengromath",
+  "race": "Tiefling",
+  "subrace": "Xengromath",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Yuwure",
+  "race": "Tiefling",
+  "subrace": "Yuwure",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Zath’tinnal",
+  "race": "Tiefling",
+  "subrace": "Zath’tinnal",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Tiefling:Zervari",
+  "race": "Tiefling",
+  "subrace": "Zervari",
+  "link": "",
+  "territories": [
+    "Lingua del Demone",
+    "Corno del Demone",
+    "Gran Ducato di Vatakia"
+  ]
+},{
+  "_id": "Triton:no",
+  "race": "Triton",
+  "subrace": null,
+  "link": "",
+  "territories": [
+    "Vapua, Kiunur e Hirmaa"
+  ]
+}]
