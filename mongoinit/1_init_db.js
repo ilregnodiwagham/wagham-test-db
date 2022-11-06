@@ -47,3 +47,4 @@ db.createCollection('spells', { capped: false });
 db.createCollection('utils', { capped: false });
 db.createCollection('buildingtypes', { capped: false });
 db.createCollection('bounties', { capped: false });
+db.createCollection('races', { capped: false });

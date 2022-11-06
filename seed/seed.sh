@@ -8,3 +8,4 @@ mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=spells -u $D
 mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=utils -u $DB_USER -p $DB_PWD -v --file=utils.json --jsonArray
 mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=bounties -u $DB_USER -p $DB_PWD -v --file=bounties.json --jsonArray
 mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=buildingtypes -u $DB_USER -p $DB_PWD -v --file=buildingtypes.json --jsonArray
+mongoimport --host=$MONGO_HOST:$MONGO_PORT --db=testDB --collection=races -u $DB_USER -p $DB_PWD -v --file=races.json --jsonArray
