@@ -2,585 +2,575 @@
   "_id": "Aasimar:Fallen",
   "race": "Aasimar",
   "subrace": "Fallen",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/1xLmvAWQoLWfwl2EaGeasiozhI8uUM0Ce/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Aasimar:Protector",
   "race": "Aasimar",
   "subrace": "Protector",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/1SnrRPUmNN1V6Fw5WK7MxC1zjadjNSGpX/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Aasimar:Scourge",
   "race": "Aasimar",
   "subrace": "Scourge",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/14tIfjAuhGu34f7obrK8cbGJrMAeTlUwa/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Avian:Dark",
   "race": "Avian",
   "subrace": "Dark",
-  "link": "",
-  "territories": [
-    "Savana di Heba"
-  ]
+  "link": "https://drive.google.com/file/d/1UUR6zQmdZy3J98u7ub67Ip60nbQ9jXHM/view?usp=sharing",
+  "territories": {
+    "Savana di Heba": "https://wagham.it/lore/#heba"
+  }
 },{
   "_id": "Avian:Mountain",
   "race": "Avian",
   "subrace": "Mountain",
-  "link": "",
-  "territories": [
-    "Oligarchia di Intibhir"
-  ]
+  "link": "https://drive.google.com/file/d/1r3hoshnH-IDSgU6OuaN_7PLNx41_TQsD/view?usp=sharing",
+  "territories": {
+    "Oligarchia di Intibhir": "https://wagham.it/lore/#oligarchia"
+  }
 },{
   "_id": "Centaur:no",
   "race": "Centaur",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Tribù dei Verdi Pascoli"
-  ]
+  "link": "https://drive.google.com/file/d/1kzTusodude6Ex8YxT76LxtKM2faGpxBJ/view?usp=sharing",
+  "territories": {
+    "Tribù dei Verdi Pascoli": "https://wagham.it/lore/#verdipascoli"
+  }
 },{
   "_id": "Dragonborn:Fo'Khar",
   "race": "Dragonborn",
   "subrace": "Fo'Khar",
-  "link": "",
-  "territories": [
-    "Fo'Khar"
-  ]
+  "link": "https://drive.google.com/file/d/1McO5qKnfY57bbIlAn9jLB-Qx4R3wycSl/view?usp=sharing",
+  "territories": {
+    "Fo'Khar": "https://wagham.it/lore/#khar"
+  }
 },{
   "_id": "Dragonborn:Japachi",
   "race": "Dragonborn",
   "subrace": "Japachi",
-  "link": "",
-  "territories": [
-    "Japachi"
-  ]
+  "link": "https://drive.google.com/file/d/1YNo6n4oelVqgsFh5XSpTNXtSihuwzLG2/view?usp=sharing",
+  "territories": {
+    "Japachi": "https://wagham.it/lore/#japachi"
+  }
 },{
   "_id": "Dragonborn:Lizardfolk",
   "race": "Dragonborn",
   "subrace": "Lizardfolk",
-  "link": "",
-  "territories": [
-    "La Fortezza"
-  ]
+  "link": "https://drive.google.com/file/d/1Leak2TRKvr77WRSTGunGFgp5vRQpESRk/view?usp=sharing",
+  "territories": {
+    "La Fortezza": "https://wagham.it/lore/#fortezza"
+  }
 },{
   "_id": "Dwarf:Dark",
   "race": "Dwarf",
   "subrace": "Dark",
-  "link": "",
-  "territories": [
-    "Oligarchia di Intibhir",
-    "Protettorato di Inveriw"
-  ]
+  "link": "https://drive.google.com/file/d/1DEHWt9bRxiWlhYeRELfM32rEUXujH7eq/view?usp=sharing",
+  "territories": {
+    "Oligarchia di Intibhir": "https://wagham.it/lore/#oligarchia",
+    "Protettorato di Inveriw": "https://wagham.it/lore/#protettorato"
+  }
 },{
   "_id": "Dwarf:Hill",
   "race": "Dwarf",
   "subrace": "Hill",
-  "link": "",
-  "territories": [
-    "Oligarchia di Intibhir",
-    "Protettorato di Inveriw"
-  ]
+  "link": "https://drive.google.com/file/d/1umxBTP29Xoiu1hkvKORRHqHRn547ZCji/view?usp=sharing",
+  "territories": {
+    "Oligarchia di Intibhir": "https://wagham.it/lore/#oligarchia",
+    "Protettorato di Inveriw": "https://wagham.it/lore/#protettorato"
+  }
 },{
   "_id": "Dwarf:Mountain",
   "race": "Dwarf",
   "subrace": "Mountain",
-  "link": "",
-  "territories": [
-    "Oligarchia di Intibhir",
-    "Protettorato di Inveriw"
-  ]
+  "link": "https://drive.google.com/file/d/1qoseSem5LNtmLRsqBMLKKpv2Iww0QNUy/view?usp=sharing",
+  "territories": {
+    "Oligarchia di Intibhir": "https://wagham.it/lore/#oligarchia",
+    "Protettorato di Inveriw": "https://wagham.it/lore/#protettorato"
+  }
 },{
   "_id": "Elf:Amueron",
   "race": "Elf",
   "subrace": "Amueron",
-  "link": "",
-  "territories": [
-    "Amueron"
-  ]
+  "link": "https://drive.google.com/file/d/1lFfY66pauYFZk5AypTcLK2JX3VSdFNhO/view?usp=sharing",
+  "territories": {
+    "Amueron": "https://wagham.it/lore/#amueron"
+  }
 },{
   "_id": "Elf:Dark",
   "race": "Elf",
   "subrace": "Dark",
-  "link": "",
-  "territories": [
-    "Fanendeluial"
-  ]
+  "link": "https://drive.google.com/file/d/1U9DI7XCB6cgpYg_QpboGA28zZo1hWE4m/view?usp=sharing",
+  "territories": {
+    "Fanendeluial": "https://wagham.it/lore/#fanendeluial"
+  }
 },{
   "_id": "Elf:Kusia",
   "race": "Elf",
   "subrace": "Kusia",
-  "link": "",
-  "territories": [
-    "Kusia"
-  ]
+  "link": "https://drive.google.com/file/d/1g14PL16ADAiGzVLP7-qwNuNGhiuJp993/view?usp=sharing",
+  "territories": {
+    "Kusia": "https://wagham.it/lore/#kusia"
+  }
 },{
   "_id": "Elf:Ornwelun",
   "race": "Elf",
   "subrace": "Ornwelun",
-  "link": "",
-  "territories": [
-    "Città Stato di Ornwelun"
-  ]
+  "link": "https://drive.google.com/file/d/1hhnpm1boftisJ0y2AHoGpDAzhr30SvEd/view?usp=sharing",
+  "territories": {
+    "Città Stato di Ornwelun": "https://wagham.it/lore/#ornwelun"
+  }
 },{
   "_id": "Elf:Sea",
   "race": "Elf",
   "subrace": "Sea",
-  "link": "",
-  "territories": [
-    "Vapua, Kiunur e Hirmaa"
-  ]
+  "link": "https://drive.google.com/file/d/1Wqr5AIBEyZUxA4ih2CpiflBD0dm1-EH2/view?usp=sharing",
+  "territories": {
+    "Vapua, Kiunur e Hirmaa": "https://wagham.it/lore/#mare"
+  }
 },{
   "_id": "Elf:Shadow",
   "race": "Elf",
   "subrace": "Shadow",
-  "link": "",
-  "territories": [
-    "Fanendeluial"
-  ]
+  "link": "https://drive.google.com/file/d/1r3i6GwJMqe-bOlKVpVQmmeU9Qa6TfOpA/view?usp=sharing",
+  "territories": {
+    "Fanendeluial": "https://wagham.it/lore/#fanendeluial"
+  }
 },{
   "_id": "Fairy:no",
   "race": "Fairy",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Kusia"
-  ]
+  "link": "https://drive.google.com/file/d/1lLJW5e8rHowu2v7m3DUCfXK1UG7JH3tL/view?usp=sharing",
+  "territories": {
+    "Kusia": "https://wagham.it/lore/#kusia"
+  }
 },{
   "_id": "Felinid:Catfolk",
   "race": "Felinid",
   "subrace": "Catfolk",
-  "link": "",
-  "territories": [
-    "Terre di Drelluma"
-  ]
+  "link": "https://drive.google.com/file/d/1jLIwEnal1hD3jTDFIprvZBGQifA3QUeY/view?usp=sharing",
+  "territories": {
+    "Terre di Drelluma": "https://wagham.it/lore/#drelluma"
+  }
 },{
   "_id": "Felinid:Lionfolk",
   "race": "Felinid",
   "subrace": "Lionfolk",
-  "link": "",
-  "territories": [
-    "Terre di Drelluma",
-    "Amueron"
-  ]
+  "link": "https://drive.google.com/file/d/1iqfpqopklRJlsMyi-A_sqslqgZ5vVg7p/view?usp=sharing",
+  "territories": {
+    "Terre di Drelluma": "https://wagham.it/lore/#drelluma",
+    "Amueron": "https://wagham.it/lore/#amueron"
+  }
 },{
   "_id": "Firbolg:no",
   "race": "Firbolg",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Bolgar’s Marsh"
-  ]
+  "link": "https://drive.google.com/file/d/1QP05gdWUrURkVZRhTDl-BYK6323oRC0d/view?usp=sharing",
+  "territories": {
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars"
+  }
 },{
   "_id": "Gnome:Dark",
   "race": "Gnome",
   "subrace": "Dark",
-  "link": "",
-  "territories": [
-    "Gnomerion",
-    "Oligarchia di Intibhir"
-  ]
+  "link": "https://drive.google.com/file/d/11KlrAkh-wK5zmCsVcsF9MgIfy-9kMsE4/view?usp=sharing",
+  "territories": {
+    "Gnomerion": "https://wagham.it/lore/#gnomerion",
+    "Oligarchia di Intibhir": "https://wagham.it/lore/#oligarchia"
+  }
 },{
   "_id": "Gnome:Forest",
   "race": "Gnome",
   "subrace": "Forest",
-  "link": "",
-  "territories": [
-    "Gnomerion",
-    "Oligarchia di Intibhir"
-  ]
+  "link": "https://drive.google.com/file/d/18T8YWaTtfHuYQcz0j46zSdJEEVmHwqz2/view?usp=sharing",
+  "territories": {
+    "Gnomerion": "https://wagham.it/lore/#gnomerion",
+    "Oligarchia di Intibhir": "https://wagham.it/lore/#oligarchia"
+  }
 },{
   "_id": "Gnome:Rock",
   "race": "Gnome",
   "subrace": "Rock",
-  "link": "",
-  "territories": [
-    "Gnomerion",
-    "Oligarchia di Intibhir"
-  ]
+  "link": "https://drive.google.com/file/d/1jKjvcYgoxO9abw3J3FKlIrj5klPs5pQa/view?usp=sharing",
+  "territories": {
+    "Gnomerion": "https://wagham.it/lore/#gnomerion",
+    "Oligarchia di Intibhir": "https://wagham.it/lore/#oligarchia"
+  }
 },{
   "_id": "Goblinoid:Goblin",
   "race": "Goblinoid",
   "subrace": "Goblin",
-  "link": "",
-  "territories": [
-    "Rukûdan"
-  ]
+  "link": "https://drive.google.com/file/d/1q8R-bFd1lR0CYlXwP3hWNTohMXg4IChf/view?usp=sharing",
+  "territories": {
+    "Rukûdan": "https://wagham.it/lore/#rukudan"
+  }
 },{
   "_id": "Half-Elemental:Air",
   "race": "Half-Elemental",
   "subrace": "Air",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia",
-    "Bolgar’s Marsh"
-  ]
+  "link": "https://drive.google.com/file/d/1uY-WosMp1jprCsXyLBhf537Eew-K5PHQ/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars"
+  }
 },{
   "_id": "Half-Elemental:Earth",
   "race": "Half-Elemental",
   "subrace": "Earth",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia",
-    "Bolgar’s Marsh"
-  ]
+  "link": "https://drive.google.com/file/d/12cZKGYD-QCpvP0JEbBq73k3EMNX0SQ5G/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars"
+  }
 },{
   "_id": "Half-Elemental:Fire",
   "race": "Half-Elemental",
   "subrace": "Fire",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia",
-    "Bolgar’s Marsh"
-  ]
+  "link": "https://drive.google.com/file/d/17x3jbfPYj1VSw4Vo22jXwVmQg4YiGIGX/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars"
+  }
 },{
   "_id": "Half-Elemental:Water",
   "race": "Half-Elemental",
   "subrace": "Water",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia",
-    "Bolgar’s Marsh"
-  ]
+  "link": "https://drive.google.com/file/d/1zn31_oRRaUmDwW4_RNQxBQOwYR7kxq6R/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars"
+  }
 },{
   "_id": "Half-Elf:Amueron",
   "race": "Half-Elf",
   "subrace": "Amueron",
-  "link": "",
-  "territories": [
-    "Amueron",
-    "Bolgar’s Marsh",
-    "Sanguine’s Slough"
-  ]
+  "link": "https://drive.google.com/file/d/11IyyMPLdo9UhaPO7NmzC--m5_6BbZGEP/view?usp=sharing",
+  "territories": {
+    "Amueron": "https://wagham.it/lore/#amueron",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars",
+    "Sanguine’s Slough": "https://wagham.it/lore/#saguine"
+  }
 },{
   "_id": "Half-Elf:Fanendeluial",
   "race": "Half-Elf",
   "subrace": "Fanendeluial",
-  "link": "",
-  "territories": [
-    "Fanendeluial",
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/13cvFrVX6KeE4yjofgwBWYDwsa2t4FQcO/view?usp=sharing",
+  "territories": {
+    "Fanendeluial": "https://wagham.it/lore/#fanendeluial",
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Half-Elf:Kusia",
   "race": "Half-Elf",
   "subrace": "Kusia",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/1sOgzTrxBWlogXDTHHfWMXwuepaEOzQAL/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Half-Elf:Sea",
   "race": "Half-Elf",
   "subrace": "Sea",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/1C0CMndziAqD0Sbs9aK-o253mzpV16Z3j/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
+},{
+  "_id": "Half-Elf:Standard",
+  "race": "Half-Elf",
+  "subrace": "Standard",
+  "link": "https://drive.google.com/file/d/1w2m73pSm02uzO-MpxPGsMt51gKdln-BM/view?usp=sharing",
+  "territories": {
+    "Amueron": "https://wagham.it/lore/#amueron",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars",
+    "Sanguine’s Slough": "https://wagham.it/lore/#saguine",
+    "Fanendeluial": "https://wagham.it/lore/#fanendeluial",
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Half-Giant:no",
   "race": "Half-Giant",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Montagne di Smeg"
-  ]
+  "link": "https://drive.google.com/file/d/1WOPTD-bZjiRu17KjdW51JJq6g8wuX9Ll/view?usp=sharing",
+  "territories": {
+    "Montagne di Smeg": "https://wagham.it/lore/#smeg"
+  }
 },{
   "_id": "Half-Orc:no",
   "race": "Half-Orc",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Rukûdan",
-    "Sanguine’s Slough"
-  ]
+  "link": "https://drive.google.com/file/d/1Lk4brn-oIQs32mVMeeW856m1rRB2mAcK/view?usp=sharing",
+  "territories": {
+    "Rukûdan": "https://wagham.it/lore/#rukudan",
+    "Sanguine’s Slough": "https://wagham.it/lore/#saguine"
+  }
 },{
   "_id": "Halfling:Ghostwise",
   "race": "Halfling",
   "subrace": "Ghostwise",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/1VD70-0qQW0NQERA_IY7FSRjO3Joygw6l/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Halfling:Lightfoot",
   "race": "Halfling",
   "subrace": "Lightfoot",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/1p0xilENuORYl7QDZKc2uyto1AHR1KPJS/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Halfling:Stout",
   "race": "Halfling",
   "subrace": "Stout",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia"
-  ]
+  "link": "https://drive.google.com/file/d/1hfSrLq_t58_TDZIQnw_p0Xy3K9NZDhyC/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia"
+  }
 },{
   "_id": "Human:Amazon",
   "race": "Human",
   "subrace": "Amazon",
-  "link": "",
-  "territories": [
-    "Sorellanza delle Amazzoni"
-  ]
+  "link": "https://drive.google.com/file/d/19luckh9N_JtdsC88swZHHmhSuDqxKLi1/view?usp=sharing",
+  "territories": {
+    "Sorellanza delle Amazzoni": "https://wagham.it/lore/#amazzoni"
+  }
 },{
   "_id": "Human:Cursed",
   "race": "Human",
   "subrace": "Cursed",
-  "link": "",
-  "territories": [
-    "Bolgar’s Marsh",
-    "Sanguine’s Slough"
-  ]
+  "link": "https://drive.google.com/file/d/10ICklUa8QostalfnfjiDHiLsAL6Zzgjt/view?usp=sharing",
+  "territories": {
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars",
+    "Sanguine’s Slough": "https://wagham.it/lore/#saguine"
+  }
 },{
   "_id": "Human:Dhampir",
   "race": "Human",
   "subrace": "Dhampir",
-  "link": "",
-  "territories": [
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1GfTmgcd2ruPQ5ici3nibmOqVAWU_bilS/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Human:Reborn",
   "race": "Human",
   "subrace": "Reborn",
-  "link": "",
-  "territories": [
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1am2L5HCkJe5aICCzGsVZHejOuxHUMVTI/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Human:Reptilian",
   "race": "Human",
   "subrace": "Reptilian",
-  "link": "",
-  "territories": [
-    "Califfato di Sratjiss"
-  ]
+  "link": "https://drive.google.com/file/d/1EkVVblR4sIzB3JaYNbSZ7pF7m7sjFHkc/view?usp=sharing",
+  "territories": {
+    "Califfato di Sratjiss": "https://wagham.it/lore/#califfato"
+  }
 },{
   "_id": "Human:Standard",
   "race": "Human",
   "subrace": "Standard",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia",
-    "Bolgar’s Marsh",
-    "Sanguine’s Slough",
-    "Gran Ducato di Vatakia",
-    "Califfato di Sratjiss",
-    "Rukûdan",
-    "Federazione di Ma"
-  ]
+  "link": "https://drive.google.com/file/d/1I4LaTwZdgzlG-UTS42jJlLb28P0_Vhzx/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars",
+    "Sanguine’s Slough": "https://wagham.it/lore/#saguine",
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia",
+    "Califfato di Sratjiss": "https://wagham.it/lore/#califfato",
+    "Rukûdan": "https://wagham.it/lore/#rukudan",
+    "Federazione di Ma": "https://wagham.it/lore/#dumalia"
+  }
 },{
   "_id": "Human:Variant",
   "race": "Human",
   "subrace": "Variant",
-  "link": "",
-  "territories": [
-    "Impero di Arcotia",
-    "Bolgar’s Marsh",
-    "Sanguine’s Slough",
-    "Gran Ducato di Vatakia",
-    "Califfato di Sratjiss",
-    "Rukûdan",
-    "Federazione di Ma"
-  ]
+  "link": "https://drive.google.com/file/d/1cBs0zUcNgLzeh6SeA3r357I4LjoLtB3k/view?usp=sharing",
+  "territories": {
+    "Impero di Arcotia": "https://wagham.it/lore/#arcotia",
+    "Bolgar’s Marsh": "https://wagham.it/lore/#bolgars",
+    "Sanguine’s Slough": "https://wagham.it/lore/#saguine",
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia",
+    "Califfato di Sratjiss": "https://wagham.it/lore/#califfato",
+    "Rukûdan": "https://wagham.it/lore/#rukudan",
+    "Federazione di Ma": "https://wagham.it/lore/#dumalia"
+  }
 },{
   "_id": "Kobold:no",
   "race": "Kobold",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Japachi"
-  ]
+  "link": "https://drive.google.com/file/d/1N13VVygkciHLDEft8J9w4Src0HkQaS4u/view?usp=sharing",
+  "territories": {
+    "Japachi": "https://wagham.it/lore/#japachi"
+  }
 },{
   "_id": "Krez:Krezerai",
   "race": "Krez",
   "subrace": "Krezerai",
-  "link": "",
-  "territories": [
-    "Krezanith"
-  ]
+  "link": "https://drive.google.com/file/d/1pQqG3IGExGTEC88Oher--qKPLgNVYec5/view?usp=sharing",
+  "territories": {
+    "Krezanith": "https://wagham.it/lore/#krez"
+  }
 },{
   "_id": "Krez:Krezyanki",
   "race": "Krez",
   "subrace": "Krezyanki",
-  "link": "",
-  "territories": [
-    "Krezanith"
-  ]
+  "link": "https://drive.google.com/file/d/1FmWlXHikUO-ixUyRaR9lz1WWOku3LwvS/view?usp=sharing",
+  "territories": {
+    "Krezanith": "https://wagham.it/lore/#krez"
+  }
 },{
   "_id": "Matalingwe:Matalin",
   "race": "Matalingwe",
   "subrace": "Matalin",
-  "link": "",
-  "territories": [
-    "Lingwenor"
-  ]
+  "link": "https://drive.google.com/file/d/1Ir85uH64sUQ8WK7LncCJ_ox-CEihp6dw/view?usp=sharing",
+  "territories": {}
 },{
   "_id": "Matalingwe:Matalthar",
   "race": "Matalingwe",
   "subrace": "Matalthar",
-  "link": "",
-  "territories": [
-    "Lingwenor"
-  ]
+  "link": "https://drive.google.com/file/d/191JIvvMIChceL9qORlamLW2COoJmJI2G/view?usp=sharing",
+  "territories": {}
 },{
   "_id": "Minotaur:no",
   "race": "Minotaur",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Federazione di Ma"
-  ]
+  "link": "https://drive.google.com/file/d/1BrBsHpNBtVXkQEG850CrYwSFfYud7Gur/view?usp=sharing",
+  "territories": {
+    "Federazione di Ma": "https://wagham.it/lore/#dumalia"
+  }
 },{
   "_id": "Myconid:Bioluminescent",
   "race": "Myconid",
   "subrace": "Bioluminescent",
-  "link": "",
-  "territories": [
-    "Amueron",
-    "Kusia"
-  ]
+  "link": "https://drive.google.com/file/d/13IoHy6wV2Qy0CpMqKmkJ7dIYxRCIDbzM/view?usp=sharing",
+  "territories": {
+    "Amueron": "https://wagham.it/lore/#amueron",
+    "Kusia": "https://wagham.it/lore/#kusia"
+  }
 },{
   "_id": "Myconid:Psychotropic",
   "race": "Myconid",
   "subrace": "Psychotropic",
-  "link": "",
-  "territories": [
-    "Amueron",
-    "Kusia"
-  ]
+  "link": "https://drive.google.com/file/d/1645mJF2aqkeUV9q4BJHSt4inF-9WE_ZF/view?usp=sharing",
+  "territories": {
+    "Amueron": "https://wagham.it/lore/#amueron",
+    "Kusia": "https://wagham.it/lore/#kusia"
+  }
 },{
   "_id": "Myconid:Toxic",
   "race": "Myconid",
   "subrace": "Toxic",
-  "link": "",
-  "territories": [
-    "Amueron",
-    "Kusia"
-  ]
+  "link": "https://drive.google.com/file/d/1TfUMkVAYt3X947G02jEqvDJzf0n3S9pQ/view?usp=sharing",
+  "territories": {
+    "Amueron": "https://wagham.it/lore/#amueron",
+    "Kusia": "https://wagham.it/lore/#kusia"
+  }
 },{
   "_id": "Orc:no",
   "race": "Orc",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Rukûdan"
-  ]
+  "link": "https://drive.google.com/file/d/1OwWTNHkaiQEnlKQt_Wb5TnEK-5SuDs3T/view?usp=sharing",
+  "territories": {
+    "Rukûdan": "https://wagham.it/lore/#rukudan"
+  }
 },{
   "_id": "Satyr:no",
   "race": "Satyr",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Amueron"
-  ]
+  "link": "https://drive.google.com/file/d/1YLEnFfh50f9clOSyUmLFgEde4azucZLV/view?usp=sharing",
+  "territories": {
+    "Amueron": "https://wagham.it/lore/#amueron"
+  }
 },{
   "_id": "Tiefling:Drath’tathach",
   "race": "Tiefling",
   "subrace": "Drath’tathach",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1on8zuxGb6DXHPP_dun0GW992ATTvSaOB/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Orgethiz",
   "race": "Tiefling",
   "subrace": "Orgethiz",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1wuIvC89XHvjTTLi6taQp-lwzkE4oLZLd/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Quphi",
   "race": "Tiefling",
   "subrace": "Quphi",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1qzxn6UmzkM5aZ_YXl7CwlXPlp0E5ZYzu/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Trarthrath",
   "race": "Tiefling",
   "subrace": "Trarthrath",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/10HfjVYZdlq4DrxCxldGmuLTu2AoPPvbR/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Winged",
   "race": "Tiefling",
   "subrace": "Winged",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1ljwOzExHxwJ2iFSevPD1qSwRtZJCCCtZ/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Xengromath",
   "race": "Tiefling",
   "subrace": "Xengromath",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1M2zmWe2geVIRXF2l13BPv36ARHQzeTw9/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Yuwure",
   "race": "Tiefling",
   "subrace": "Yuwure",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/12Z52AP1yfaz1ojEPnuutEh9VMPN9LynU/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Zath’tinnal",
   "race": "Tiefling",
   "subrace": "Zath’tinnal",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1M88sFpVU9bk5J3pg-FaGEigPukpKk0KY/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Tiefling:Zervari",
   "race": "Tiefling",
   "subrace": "Zervari",
-  "link": "",
-  "territories": [
-    "Lingua del Demone",
-    "Corno del Demone",
-    "Gran Ducato di Vatakia"
-  ]
+  "link": "https://drive.google.com/file/d/1tIuzWAS4QD5bMp8QGIV721-C2aXBRDZg/view?usp=sharing",
+  "territories": {
+    "Gran Ducato di Vatakia": "https://wagham.it/lore/#vatakia"
+  }
 },{
   "_id": "Triton:no",
   "race": "Triton",
   "subrace": null,
-  "link": "",
-  "territories": [
-    "Vapua, Kiunur e Hirmaa"
-  ]
+  "link": "https://drive.google.com/file/d/1227Ehbjp2R1KxjCASZ4vLHBdqZ-Zq7jd/view?usp=sharing",
+  "territories": {
+    "Vapua, Kiunur e Hirmaa": "https://wagham.it/lore/#mare"
+  }
 }]
